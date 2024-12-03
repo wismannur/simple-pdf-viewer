@@ -1,0 +1,9 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Minimalist PDF viewer interface">
+	<rect width="100" height="100" rx="10" fill="#ECF0F1"/>
+	<rect x="10" y="10" width="80" height="15" rx="5" fill="#BDC3C7"/>
+	<rect x="10" y="30" width="60" height="60" rx="5" fill="#3498DB"/>
+	<path d="M20 45H60" stroke="white" strokeWidth="2"/>
+	<path d="M20 60H60" stroke="white" strokeWidth="2"/>
+	<path d="M20 75H60" stroke="white" strokeWidth="2"/>
+	<rect x="75" y="30" width="15" height="60" rx="5" fill="#BDC3C7"/>
+</svg>
